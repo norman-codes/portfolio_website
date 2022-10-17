@@ -1,10 +1,12 @@
 ---
-widget: about.avatar
-headless: true
-weight: 10
-title: ""
+widget: about
 active: true
 author: admin
 widget_id: recent-posts
+headless: true
+weight: 20
+title: "hello! :wave:"
+design:
+  background:
+    image: ""
 ---
-lorem ipsum dolor sit amet
