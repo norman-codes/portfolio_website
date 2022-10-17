@@ -34,4 +34,4 @@ email: ""
 welcome to my portfolio! :dizzy:
 I'm a third-year computer science major at the University of Florida.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/BukingoltsNorman_Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
