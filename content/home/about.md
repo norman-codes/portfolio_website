@@ -2,7 +2,7 @@
 widget: about
 headless: true
 weight: 20
-title: ""
+title: "hello! :wave:"
 active: true
 author: admin
 widget_id: recent-posts
