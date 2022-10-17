@@ -22,28 +22,40 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Product Manager
+    company: Software Engineering Club (SEC)
+    company_url: 'https://ufsec.notion.site/UF-Software-Engineering-Club-8e7ec7c7088845129e35f0171f1a06fe'
+    company_logo: SEC_logo
+    location: Gainesville, University of Florida
+    date_start: '2021-03-01'
+    date_end: ''
+    description: |2-      
+        - Head of Product of club-wide app development project (Clubfinity) designed to centralize student organization involvement & admin-to-member communications.
+        - Conceptualizing feature set & overseeing its implementation.
+        - Facilitating Agile workflow across UI/UX design & development teams; collaborating with Head of Development to plan biweekly sprints, attending standups, etc.
+
+  - title: Secretary, Head of Outreach
+    company: Association for Computing Machinery (ACM)
+    company_url: 'https://www.uf-acm.com/'
+    company_logo: ACM_logo
+    location: Gainesville, University of Florida
+    date_start: '2021-08-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        - Overseeing communication & collaboration with ACM's Special Interest Groups (SIGs) & other student organizations on campus by scheduling joint events focused on pre-professional development & socialization.
+        - Participating in event planning for the semester, & engaging with club officers & members.
+        - Managing the organization's website (uf-acm.com).
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Podcast Host
+    company: TEDxUF
+    company_url: 'https://www.tedxuf.com/'
+    company_logo: TEDxUF_logo
+    location: Gainesville, University of Florida
+    date_start: '2022-09-01'
+    date_end: ''
+    description: |2-
+        - Hosting a podcast featuring a wide variety of guests, from event speakers, student organization leaders, university staff, and the business owners and employees who make Gainesville unique.
+        - Collaboratively planning podcasts with the TEDxUF media team; creating audio content for the organization with a primary focus on community engagement.
 
 design:
   columns: '2'
