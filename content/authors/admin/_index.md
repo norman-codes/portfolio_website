@@ -1,54 +1,37 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: I'm studying computer science at the University of Florida slated to graduate in May 2024; I'm interested in software engineering, UI/UX design, and product management.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Software Engineering (desktop & mobile app development)
+  - UI/UX Design
+  - Product Management
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/norman-codes/
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+    link: https://www.linkedin.com/in/norman-codes/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BS in Computer Science
+      institution: University of Florida
+      year: 2024
+    - course: AA in Arts
+      institution: Florida Gulf Coast University
+      year: 2020
 superuser: true
-last_name: Bighetti
+last_name: Bukingolts
 role: computer science student; gratitude enthusiast.
 highlight_name: true
 title: norman
-first_name: Alice
+first_name: Norman
 email: ""
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+welcome to my portfolio! :dizzy:
+I'm a third-year computer science major at the University of Florida.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
