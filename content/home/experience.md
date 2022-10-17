@@ -30,9 +30,9 @@ experience:
     date_start: '2021-03-01'
     date_end: ''
     description: |2-      
-        - Head of Product of club-wide app development project (Clubfinity) designed to centralize student organization involvement & admin-to-member communications.
-        - Conceptualizing feature set & overseeing its implementation.
-        - Facilitating Agile workflow across UI/UX design & development teams; collaborating with Head of Development to plan biweekly sprints, attending standups, etc.
+        * Head of Product of club-wide app development project (Clubfinity) designed to centralize student organization involvement & admin-to-member communications.
+        * Conceptualizing feature set & overseeing its implementation.
+        * Facilitating Agile workflow across UI/UX design & development teams; collaborating with Head of Development to plan biweekly sprints, attending standups, etc.
 
   - title: Secretary, Head of Outreach
     company: Association for Computing Machinery (ACM)
@@ -42,9 +42,9 @@ experience:
     date_start: '2021-08-01'
     date_end: ''
     description: |2-
-        - Overseeing communication & collaboration with ACM's Special Interest Groups (SIGs) & other student organizations on campus by scheduling joint events focused on pre-professional development & socialization.
-        - Participating in event planning for the semester, & engaging with club officers & members.
-        - Managing the organization's website (uf-acm.com).
+        * Overseeing communication & collaboration with ACM's Special Interest Groups (SIGs) & other student organizations on campus by scheduling joint events focused on pre-professional development & socialization.
+        * Participating in event planning for the semester, & engaging with club officers & members.
+        * Managing the organization's website (uf-acm.com).
 
   - title: Podcast Host
     company: TEDxUF
@@ -54,8 +54,8 @@ experience:
     date_start: '2022-09-01'
     date_end: ''
     description: |2-
-        - Hosting a podcast featuring a wide variety of guests, from event speakers, student organization leaders, university staff, and the business owners and employees who make Gainesville unique.
-        - Collaboratively planning podcasts with the TEDxUF media team; creating audio content for the organization with a primary focus on community engagement.
+        * Hosting a podcast featuring a wide variety of guests, from event speakers, student organization leaders, university staff, and the business owners and employees who make Gainesville unique.
+        * Collaboratively planning podcasts with the TEDxUF media team; creating audio content for the organization with a primary focus on community engagement.
 
 design:
   columns: '2'
