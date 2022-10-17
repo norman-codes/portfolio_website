@@ -40,7 +40,7 @@ education:
       year: 2008
 superuser: true
 last_name: Bighetti
-role: Professor of Artificial Intelligence
+role: computer science student; gratitude enthusiast.
 highlight_name: true
 title: norman
 first_name: Alice
