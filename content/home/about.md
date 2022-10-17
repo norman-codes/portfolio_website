@@ -1,5 +1,5 @@
 ---
-widget: about
+widget: about.avatar
 headless: true
 weight: 20
 title: "hello! :wave:"
