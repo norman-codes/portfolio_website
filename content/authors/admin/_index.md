@@ -37,4 +37,4 @@ my name is **norman bukingolts**, and i'm a third-year computer science major at
 
 this website, in addition to my [GitHub](https://github.com/norman-codes), exists as proof that norman codes. here, I exhibit my work in more thorough detail (and aesthetic presentation! :sparkles:) than can fit on just my {{< staticref "uploads/BukingoltsNorman_Resume.pdf" "newtab" >}}resume{{< /staticref >}}. :scroll:
 
-take a look down below at my **projects** and **experience**.
+take a look down below at my **projects** and **experience**. :arrow_down:
