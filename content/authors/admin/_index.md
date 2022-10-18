@@ -26,16 +26,15 @@ education:
       year: ""
 superuser: true
 last_name: Bukingolts
-role: software developer; leader; gratitude enthusiast.
+role: computer science student; gratitude enthusiast.
 highlight_name: true
 title: norman
 first_name: Norman
 email: ""
 ---
-and welcome to my portfolio! :dizzy:
+nice to meet you! :smile:\
+my name is **norman bukingolts**, and i'm a third-year computer science major at the university of florida. (go gators! :crocodile:)
 
-my name is norman bukingolts, and i'm a third-year computer science major at the university of florida. (go gators! :crocodile:)
-
-this website exists to exhibit my work in more thorough detail (and aesthetic presentation! :sparkles:) than can fit on just my {{< staticref "uploads/BukingoltsNorman_Resume.pdf" "newtab" >}}**resume**{{< /staticref >}}. :scroll:
+this website, in addition to my [GitHub](https://github.com/norman-codes), exists as proof that norman codes. here, I exhibit my work in more thorough detail (and aesthetic presentation! :sparkles:) than can fit on just my {{< staticref "uploads/BukingoltsNorman_Resume.pdf" "newtab" >}}**resume**{{< /staticref >}}. :scroll:
 
 take a look down below at my **projects** and **experience**.
