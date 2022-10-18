@@ -1,5 +1,5 @@
 ---
-title: Digital Portfolio
+title: Digital Portfolio Website
 date: 2022-10-18T17:02:10.187Z
 draft: false
 featured: true
