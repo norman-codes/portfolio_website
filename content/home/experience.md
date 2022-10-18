@@ -45,18 +45,6 @@ experience:
         * Overseeing communication & collaboration with ACM's Special Interest Groups (SIGs) & other student organizations on campus by scheduling joint events focused on pre-professional development & socialization.
         * Participating in event planning for the semester, & engaging with club officers & members.
         * Managing the organization's website (uf-acm.com).
-
-  - title: Podcast Host
-    company: TEDxUF
-    company_url: 'https://www.tedxuf.com/'
-    company_logo: TED_logo
-    location: Gainesville, University of Florida
-    date_start: '2022-09-01'
-    date_end: ''
-    description: |2-
-        * Hosting a podcast featuring a wide variety of guests, from event speakers, student organization leaders, university staff, and the business owners and employees who make Gainesville unique.
-        * Collaboratively planning podcasts with the TEDxUF media team; creating audio content for the organization with a primary focus on community engagement.
-
 design:
   columns: '2'
 ---
