@@ -12,5 +12,5 @@ header:
   image: ''
 ---
 
-<a href="https://www.flaticon.com/free-icons/universe" title="universe icons">Universe icons created by Icongeek26 - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/shooting-star" title="shooting star icons">Shooting star icons created by Prosymbols Premium - Flaticon</a>
 ADD OTHER RESOURCES USED TO CREATE THIS WEBSITE HERE.
