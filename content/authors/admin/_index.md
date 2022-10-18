@@ -1,5 +1,7 @@
 ---
-bio: I'm studying computer science at the University of Florida slated to graduate in May 2024; I'm interested in software engineering, UI/UX design, and product management.
+bio: I'm studying computer science at the University of Florida, slated to
+  graduate in May 2024; I'm interested in software engineering, UI/UX design,
+  and product management.
 interests:
   - Software Engineering (desktop & mobile app development)
   - UI/UX Design
@@ -18,20 +20,22 @@ education:
   courses:
     - course: BS in Computer Science
       institution: University of Florida
-      year: 2024
+      year: ""
     - course: AA in Arts
       institution: Florida Gulf Coast University
-      year: 2020
+      year: ""
 superuser: true
 last_name: Bukingolts
-role: computer science student; gratitude enthusiast.
+role: software developer; leader; gratitude enthusiast.
 highlight_name: true
 title: norman
 first_name: Norman
 email: ""
 ---
+and welcome to my portfolio! :dizzy:
 
-welcome to my portfolio! :dizzy:
-I'm a third-year computer science major at the University of Florida.
+my name is norman bukingolts, and i'm a third-year computer science major at the university of florida. (go gators! :crocodile:)
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/BukingoltsNorman_Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+this website exists to exhibit my work in more thorough detail (and aesthetic presentation! :sparkles:) than can fit on just my {{< staticref "uploads/BukingoltsNorman_Resume.pdf" "newtab" >}}**resume**{{< /staticref >}}. :scroll:
+
+take a look down below at my **projects** and **experience**.
