@@ -1,5 +1,7 @@
 ---
 title: Clubfinity
+subtitle: A cross-platform iOS/Android app built to centralize student
+  organization communication.
 date: 2022-10-18T08:23:39.386Z
 draft: false
 featured: true
