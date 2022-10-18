@@ -26,7 +26,9 @@ education:
       year: "December 2020"
 superuser: true
 last_name: Bukingolts
-role: computer science student; emoji enthusiast.
+role: |2-
+  computer science student;
+  emoji enthusiast.
 highlight_name: true
 title: norman
 first_name: Norman
