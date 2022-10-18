@@ -1,5 +1,5 @@
 ---
-title: Android API-Searching Applet
+title: Android API-Searching Applet in Java
 date: 2022-10-18T08:52:12.757Z
 summary: >-
   *Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
