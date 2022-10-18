@@ -26,9 +26,7 @@ education:
       year: "December 2020"
 superuser: true
 last_name: Bukingolts
-role: |2-
-  computer science student;
-  emoji enthusiast.
+role: computer science student; <br /> emoji enthusiast.
 highlight_name: true
 title: norman
 first_name: Norman
@@ -36,7 +34,7 @@ email: ""
 ---
 \> my name is **norman bukingolts**, and i'm a third-year computer science major at the university of florida. (go gators! :man_student: :crocodile:)
 
-> this website, in addition to my [GitHub](https://github.com/norman-codes), exists as proof that, in fact, *norman codes*. :man_technologist:
+> this website, in addition to my [GitHub](https://github.com/norman-codes), proves that, in fact, *norman codes*. :man_technologist:
 
 \> here, I exhibit my work in more thorough detail (and aesthetic presentation! :sparkles:) than my {{< staticref "uploads/BukingoltsNorman_Resume.pdf" "newtab" >}}resume{{< /staticref >}} can reasonably hold. :scroll:
 
