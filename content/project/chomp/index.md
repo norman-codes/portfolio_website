@@ -2,7 +2,7 @@
 title: chomp!
 date: 2022-10-18T08:31:52.164Z
 draft: false
-featured: false
+featured: true
 tags:
   - Academic
   - Group
