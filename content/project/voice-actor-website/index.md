@@ -11,6 +11,9 @@ tags:
   - Personal
 links:
   - url: https://nb-va.com/
+    name: Click here to view!
+    icon_pack: null
+    icon: ":studio_microphone:"
 image:
   filename: featured.png
   focal_point: Smart
