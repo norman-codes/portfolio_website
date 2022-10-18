@@ -3,9 +3,10 @@ title: chomp!
 date: 2022-10-18T08:31:52.164Z
 draft: false
 featured: false
-categories:
-  - Group
+tags:
   - Academic
+  - Group
+categories: []
 links:
   - url: https://github.com/norman-codes/chomp
     name: View the repository here!
