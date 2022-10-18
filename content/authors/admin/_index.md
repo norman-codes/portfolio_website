@@ -20,13 +20,15 @@ education:
   courses:
     - course: BS in Computer Science
       institution: University of Florida
-      year: ""
+      year: "May 2024"
     - course: AA in Arts
       institution: Florida Gulf Coast University
-      year: ""
+      year: "December 2020"
 superuser: true
 last_name: Bukingolts
-role: computer science student; gratitude enthusiast.
+role: |2-
+computer science student;
+emoji enthusiast.
 highlight_name: true
 title: norman
 first_name: Norman

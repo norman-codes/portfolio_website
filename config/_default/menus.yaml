@@ -10,9 +10,12 @@ main:
   - name: Projects
     url: '#projects'
     weight: 20
+  - name: Experience
+    url: '#experience'
+    weight: 30
   - name: Contact
     url: '#contact'
-    weight: 30
+    weight: 40
   - name: Resume
     url: uploads/BukingoltsNorman_Resume.pdf
-    weight: 40
+    weight: 50
