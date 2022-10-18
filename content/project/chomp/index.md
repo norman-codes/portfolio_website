@@ -4,8 +4,8 @@ date: 2022-10-18T08:31:52.164Z
 draft: false
 featured: false
 categories:
-  - Academic
   - Group
+  - Academic
 links:
   - url: https://github.com/norman-codes/chomp
     name: View the repository here!
