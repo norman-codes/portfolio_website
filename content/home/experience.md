@@ -25,7 +25,7 @@ experience:
   - title: Product Manager
     company: Software Engineering Club (SEC)
     company_url: 'https://ufsec.notion.site/UF-Software-Engineering-Club-8e7ec7c7088845129e35f0171f1a06fe'
-    company_logo:
+    company_logo: SEC_logo
     location: Gainesville, University of Florida
     date_start: '2021-03-01'
     date_end: ''
@@ -37,7 +37,7 @@ experience:
   - title: Secretary, Head of Outreach
     company: Association for Computing Machinery (ACM)
     company_url: 'https://www.uf-acm.com/'
-    company_logo:
+    company_logo: ACM_logo
     location: Gainesville, University of Florida
     date_start: '2021-08-01'
     date_end: ''
@@ -49,7 +49,7 @@ experience:
   - title: Podcast Host
     company: TEDxUF
     company_url: 'https://www.tedxuf.com/'
-    company_logo: TEDlogotest
+    company_logo: TED_logo
     location: Gainesville, University of Florida
     date_start: '2022-09-01'
     date_end: ''
