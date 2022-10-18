@@ -12,7 +12,7 @@ tags:
 links:
   - url: https://nb-va.com/
 image:
-  filename: nbva_site.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
