@@ -15,3 +15,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+*lorem ipsum dolor sit amet*
