@@ -6,6 +6,9 @@ featured: true
 tags:
   - Academic
   - Group
+links:
+  - url: https://www.youtube.com/watch?v=-cFFmeRhfAg
+    name: View my group's demo here!
 image:
   filename: featured.png
   focal_point: Smart
