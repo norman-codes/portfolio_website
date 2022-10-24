@@ -20,10 +20,10 @@ education:
   courses:
     - course: BS in Computer Science
       institution: University of Florida
-      year: "May 2024"
+      year: May 2024
     - course: AA in Arts
       institution: Florida Gulf Coast University
-      year: "December 2020"
+      year: December 2020
 superuser: true
 last_name: Bukingolts
 role: computer science student; <br /> emoji enthusiast.
@@ -38,4 +38,5 @@ email: ""
 
 \> here, I exhibit my work in more thorough detail (and aesthetic! :sparkles:) than my {{< staticref "uploads/BukingoltsNorman_Resume.pdf" "newtab" >}}resume{{< /staticref >}} can reasonably contain. :scroll:
 
-:arrow_down: take a look down below at my **projects** and **experience** below! :arrow_down:
+:arrow_down: take a look down below at my **projects** and **experience** below! :arrow_down:\
+:construction: `(NOTE: THE PROJECTS SECTION IS STILL A WORK-IN-PROGRESS AS OF 10/18/2022.)` :construction:
