@@ -5,6 +5,10 @@ subtitle: A compendium of independent projects I've done as part of coursework
 date: 2022-11-04T21:45:14.637Z
 draft: false
 featured: false
+tags:
+  - Academic
+categories:
+  - Academic
 image:
   filename: featured
   focal_point: Smart
