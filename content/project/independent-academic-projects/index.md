@@ -7,8 +7,8 @@ draft: false
 featured: false
 tags:
   - Academic
-categories:
-  - Academic
+  - Personal
+categories: []
 image:
   filename: featured
   focal_point: Smart
