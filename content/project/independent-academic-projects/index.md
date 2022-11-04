@@ -16,7 +16,7 @@ image:
 ---
 ## Linux Kernel Modification - Custom System Call
 
-Langauges & Tools: C, VirtualBox, Visual Studio Code
+Languages & Tools: C, VirtualBox, Visual Studio Code
 
 ## 2D Random Walk Algorithm Visualization
 
